@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "91df2fc2-7bdb-4067-93b2-545460e3f940",
+    "first_name": "mahmoued",
+    "last_name": "ali",
+    "email": "emf@gmail.com",
+    "password": "$2a$10$j9amPeDRWkW6Xiu1zbLe9.BQaFAi72wF.D1WYZIcx4s8P85xlkjFG",
+    "age": 23
+  },
+  {
+    "_id": "5c9aba71-7aa9-4368-a76a-e0eece4fbc9c",
+    "first_name": "mahmoued",
+    "last_name": "ali",
+    "email": "emmf@gmail.com",
+    "password": "$2a$10$OuNP/w3FuqGyFnhf6LqeXOwDg6P24rWcvP4dAK.ZYHVaggQ22W1LW",
+    "age": 23
+  }
+]
